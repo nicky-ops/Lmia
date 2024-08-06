@@ -97,13 +97,13 @@
         <mxCell id="QoVnNBgYX5qWp2n_pWjr-8" value="END USERS" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#68B85C;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1380" y="540" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="QoVnNBgYX5qWp2n_pWjr-9" value="GOOGLE&amp;nbsp;&lt;div&gt;COLAB&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#68B85C;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="QoVnNBgYX5qWp2n_pWjr-9" value="GOOGLE&amp;nbsp;&lt;div&gt;COLAB&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#4f7a28;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1100" y="540" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="QoVnNBgYX5qWp2n_pWjr-10" value="CLOUD PLATFORM" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#68B85C;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="QoVnNBgYX5qWp2n_pWjr-10" value="&lt;font color=&quot;#ffffff&quot;&gt;CLOUD PLATFORM&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#263e0f;strokeColor=#ffffff;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="819" y="545.5" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="QoVnNBgYX5qWp2n_pWjr-11" value="FIELD" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#68B85C;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="QoVnNBgYX5qWp2n_pWjr-11" value="FIELD" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#b51a00;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="530" y="540" width="115" height="115" as="geometry" />
         </mxCell>
       </root>
